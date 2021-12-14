@@ -37,10 +37,6 @@ Task submission of "Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice" fro
 ## 2) Link to the GitHub repository with your application which has been ported to Godwoken
 
 https://github.com/hdbhandari/Nervos-BroadentheSpectrum/tree/master/task-7/Product-Nervos-dApp
-or
-```
-git clone https://github.com/hdbhandari/Product-Nervos-dApp.git
-```
 
 ## 3) If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
